@@ -3,3 +3,7 @@ Hello!
 This is my name.
 
 CHANGE
+
+CHANGES
+
+MAIN CHANGES
