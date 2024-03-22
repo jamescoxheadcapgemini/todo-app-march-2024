@@ -2,3 +2,5 @@ Hello world again
 
 These changes should conflict
 Some more changes in this file - what's going to happen?
+
+This change should be merged in via a PR
