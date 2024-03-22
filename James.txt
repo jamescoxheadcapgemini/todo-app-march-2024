@@ -1,3 +1,4 @@
 Hello world again
 
 These changes should conflict
+Some more changes in this file - what's going to happen?
